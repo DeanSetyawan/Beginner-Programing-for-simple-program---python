@@ -1,6 +1,6 @@
 # Beginner-Programing-for-simple-program---python
 1. replace string
-- it usually use for replace one spesific string to new string
+   - it usually use for replace one spesific string to new string
 3. string check
 4. formating string
 5. assign variable
